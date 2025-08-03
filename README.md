@@ -28,16 +28,3 @@ A backend service built with **Spring Boot 3.4.8** and **Java 17** for managing 
 - **Data Layer**: In-memory storage (no DB)
 
 ---
-
-## 📂 Project Structure
-
-src
-└── main
-├── java
-│ └── com.company.workforcemgmt
-│ ├── controller
-│ ├── dto
-│ ├── model
-│ ├── service
-│ └── repository (in-memory)
-└── resources
